@@ -1,0 +1,8 @@
+*.o
+*.crf
+*.txt
+*.map
+*.htm
+*.hex
+*.axf
+*.d
